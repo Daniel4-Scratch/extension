@@ -1,1 +1,1 @@
-// 2020 SnapFox
+console.log("Extension has access to this page");
