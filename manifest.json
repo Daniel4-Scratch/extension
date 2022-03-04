@@ -1,18 +1,18 @@
 
 {
-  "name": "Extension",
-  "description": "a template for an extension",
+  "name": "Scratch Nitro",
+  "description": "improves the scratch website",
   "version": "0.1",
   "content_scripts": [
     {
-      "matches": ["https://example.com/*"],
+      "matches": ["https://scratch.mit.edu/*"],
       "js": ["script.js"],
       "css": ["style.css"]
     }
   ],
   "web_accessible_resources": ["script.js", "style.css"],
   "browser_action": {
-    "default_title": "Extension",
+    "default_title": "Scratch Nitro",
     "default_icon": "icon.png",
     "default_popup": "popup.html"
   },
