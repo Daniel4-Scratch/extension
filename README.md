@@ -1,6 +1,6 @@
 
 <img src="/icon-big.png" alt="icon-big.png" align="right" width="128px"></img>
-<p align="right"><a href="https://github.com/Daniel4-Scratch/extension/generate"><img src="https://img.shields.io/static/v1?label=Github&message=Use%20this%20Template&color=brightgreen&logo=github"></a></p>
+<p align="right"><a href="https://github.com/Daniel4-Scratch/extension/generate"><img src="https://img.shields.io/static/v1?label=Github&message=Use%20this%20Template&color=brightgreen&logo=github"></a> <a href="https://github.com/Daniel4-Scratch/extension/stargazers"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Daniel4-Scratch/extension?style=social"></a></p>
 
 # Extension Template
 
